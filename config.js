@@ -1,11 +1,11 @@
 //=============『 Utama 』================== //
-global.owner = ['62895627514070'] 
+global.owner = ['6289524208209'] 
 global.mods = [] 
 global.prems = [] 
 
 //=============『 Info Owner 』============== //
 global.nameowner = '.'
-global.numberowner = '6281395981439'
+global.numberowner = '6289524208209'
 global.instagram = 'https://instagram.com/hyzer_stfu'
 global.github = 'https://github.com/Hyzerr'
 global.dana = '087892711054'
@@ -14,8 +14,8 @@ global.gopay = '087892711054'
 
 //=============『 Info Bot 』=================//
 global.namebot = 'ShinomiyaBot-Md'
-global.gc = 'https://chat.whatsapp.com/E8LJ85LRwfCFb92jev7Omn'
-global.web = 'https://chat.whatsapp.com/E8LJ85LRwfCFb92jev7Omn' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
+global.gc = 'https://chat.whatsapp.com/LpR3POR9ap16SUR6IuZAxb'
+global.web = 'https://chat.whatsapp.com/LpR3POR9ap16SUR6IuZAxb' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
 global.price1 = '1 bulan = 10.000\n2 Minggu 7.000\n1 Minggu 5.000'
 
 //=======『 Tampilan Dan Lainnya 』============//
@@ -23,10 +23,10 @@ global.fotonya1 = 'https://telegra.ph/file/ef6fbb13e88b671c58a25.jpg' //ganti ja
 global.fotonya2 = 'https://telegra.ph/file/ef6fbb13e88b671c58a25.jpg' //ini juga ganti 
 global.lolkey = 'Papah-Chan' //biar mudah ngegantinya semisal apikeynya expired:v
 global.zenzkey = 'BagasPrdn' //ganti jadi apikey lu kalau expired
-global.wm = 'Shinomiya-𝙼𝙳'
+global.wm = 'Sakura-𝙼𝙳'
 global.watermark = wm
-global.wm2 = '                     「 ShinomiyaBot-𝙼𝙳 あ⁩ 」'
-global.wm3 = '⫹⫺ ShinomiyaBot-𝙼𝙳'
+global.wm2 = '                     「 Sakurabotz-𝙼𝙳 あ⁩ 」'
+global.wm3 = '⫹⫺ SaakuraBot-𝙼𝙳'
 global.htki = '––––––『' 
 global.htka = '』––––––'
 global.media = 'https://telegra.ph/file/fa36b2d4cd04bb2233f5b.jpg'
@@ -37,7 +37,7 @@ global.benar = 'Benar ✅\n'
 global.salah = 'Salah ❌\n'
 global.stiker_wait = 'Stiker sedang dibuat'
 global.packname = 'Bot nolep'
-global.author = '62895627514070'
+global.author = '6289524208209'
 
 //=============『 Apikey 』================== //
 global.APIs = { // API Prefix
